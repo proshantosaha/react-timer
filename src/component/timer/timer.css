@@ -1,0 +1,28 @@
+.timer{
+    padding: 20px;
+    margin: 20px;
+}
+
+.timer p{
+   
+   color: #ff7fb4;
+   font-size: 100px;
+   font-weight: 500;
+   border-bottom: 1px solid #ff7fb4;
+}
+.timer span{
+    margin-left: 150px;
+    color:#ff7fb4;
+    font-size: 50px;
+}
+.timer button {
+    margin: 20px;
+    padding: 18px 54px;
+    border: 2px solid #ff7fb4;
+    border-radius: 8px;
+    color: blue;
+   
+    
+
+
+}
